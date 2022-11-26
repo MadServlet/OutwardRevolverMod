@@ -1,0 +1,10 @@
+{
+    "name": "Outward_Revolvers_Plus_Fix",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/MadServlet/OutwardRevolverMod",
+    "description": "Adds Revolvers in-game with no nerf and simplified recipes.",
+    "dependencies": [
+		"sinai-dev-SideLoader-3.8.4",
+        "BepInEx-BepInExPack_Outward-5.4.19"
+    ]
+}
